@@ -42,4 +42,13 @@ For support, open a issue [HERE](https://github.com/DPRsLegacy/Legacy-Switch-CFW
 I assume no responsibility for any damage or online play bans possibly caused to your Nintendo Switch console from use of included software.
 If to your nintendo switch console is damaged or banned by any of the included software please contact the respective developers through official channels and me so I can review the inclusion of the software in this package.
 
-- In my configuration for hekate I disable the ability to boot into the sysnand with CFW loaded, This is to prevent dirtying the stock nand anmd to help avoid bans
+- In my configuration for hekate I disable the ability to boot into the sysnand with CFW loaded, This is to prevent dirtying the stock nand anmd to help avoid bans. If your console is already banned/ you don't care add the following config to hekate_ipl.ini located in the bootloader folder on your SD Card. 
+   ```bash
+   [CFW (SYSNAND)]
+   emummc_force_disable=1
+   fss0=atmosphere/package3
+   atmosphere=1
+   logopath=bootloader/bootlogo.bmp
+   icon=bootloader/res/icon_payload.bmp
+   {}
+```
