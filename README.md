@@ -39,6 +39,7 @@ and paste them to the root directory of your Switch SD card
 
 For support, open a issue [HERE](https://github.com/DPRsLegacy/Legacy-Switch-CFW-Package/issues) and please DM me on Discord @ dprslegacy for a faster response/solution.
 
-I assume no responsibility for any damage possibly caused to your Nintendo Switch console from use of included software.
-If to your nintendo switch console is damaged by any of the included software please contact the respective developers through official channels and me so I can review the inclusion of the software in this package.
+I assume no responsibility for any damage or online play bans possibly caused to your Nintendo Switch console from use of included software.
+If to your nintendo switch console is damaged or banned by any of the included software please contact the respective developers through official channels and me so I can review the inclusion of the software in this package.
 
+In my configuration for hekate I disable the ability to boot into the sysnand with CFW loaded, This is to prevent dirtying the stock nand anmd to help avoid bans
