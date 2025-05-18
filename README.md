@@ -2,7 +2,7 @@
 # Legacy-Switch-CFW
 
 
-This package is a compliation of software for use with modded nintendo switch consoles. This package is currently on the latest release version of atmosphere (1.7.1), and will be updated again when the next version comes out of Pre-release status. This currently means no support for HOS 19.0.0 or later.
+This package is a compliation of software for use with modded nintendo switch consoles. This package is currently on the latest release version of atmosphere (1.8.0), and will be updated again when the next version comes out of Pre-release status. This currently means no support for HOS 20.0.0 or later.
 
 
 ## This Package DOES NOT include software that can be used to circumvent Anti-Piracy measures.
